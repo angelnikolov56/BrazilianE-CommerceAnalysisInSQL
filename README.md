@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The data can be downloaded from [here]([url](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_orders_dataset.csv)). It is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information on 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing orders from multiple dimensions: from order status, price, payment, and freight performance to customer location, product attributes, and finally reviews written by customers. 
+The data can be downloaded from [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_orders_dataset.csv). It is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information on 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing orders from multiple dimensions: from order status, price, payment, and freight performance to customer location, product attributes, and finally reviews written by customers. 
 The analysis is performed in PostgreSQL 16.1. The queries used are included in the Brazilian E-Commerce Analysis.sql file. 
 The analysis focuses on customer behavior and preferences, order patterns, and geographical insights. The findings and insights derived from it could be used to inform e-commerce business strategy, marketing, and operational improvements. 
 
